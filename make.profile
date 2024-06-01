@@ -1,1 +1,1 @@
-../../var/db/repos/gentoo/profiles/default/linux/arm64/23.0/desktop/plasma/systemd
+../../var/db/repos/gentoo/profiles/default/linux/arm64/23.0/desktop/systemd

@@ -1,1 +1,7 @@
 sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+# required by vscode (argument)
+>=app-editors/vscode-1.89.0 Microsoft-vscode
+# required by 1password (argument)
+>=app-admin/1password-8.10.30 all-rights-reserved
+# required by armcord (argument)
+>=net-im/armcord-3.2.6 OSL-3.0

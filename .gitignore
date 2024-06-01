@@ -2,3 +2,6 @@ binrepos.conf/
 gnupg/
 savedconfig/
 *~
+# Right now we need different settings for the binhost vs a client
+# so we exclude this.
+make.conf
