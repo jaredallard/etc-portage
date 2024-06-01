@@ -1,0 +1,4 @@
+gui-wm/hyprland amd64
+gui-libs/hyprcursor amd64
+dev-libs/hyprland-protocols amd64
+dev-libs/hyprlang amd64

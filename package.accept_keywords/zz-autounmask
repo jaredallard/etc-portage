@@ -1,0 +1,145 @@
+# package.accept_keywords# required by rclone (argument)
+=net-misc/rclone-1.63.1 ~arm64
+# required by gui-wm/hyprland-0.37.1::gentoo
+# required by hyprland (argument)
+=dev-libs/libliftoff-0.4.1 ~arm64
+# required by gui-wm/hyprland-0.37.1::gentoo
+# required by hyprland (argument)
+=dev-cpp/tomlplusplus-3.4.0 ~arm64
+# required by github-cli (argument)
+=dev-util/github-cli-2.42.0 ~arm64
+# required by telegram-desktop (argument)
+=net-im/telegram-desktop-5.0.1 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=media-libs/rnnoise-0.4.1_p20210122-r1 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=media-libs/tg_owt-0_pre20230921 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=media-libs/libtgvoip-2.4.4_p20221208-r1 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=dev-cpp/cppgir-2.0_p20240315 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=dev-cpp/expected-lite-0.6.3 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=dev-libs/libdispatch-5.8 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=dev-cpp/range-v3-0.12.0 ~arm64
+# required by guestfs-tools (argument)
+=app-emulation/guestfs-tools-1.48.2 **
+# required by dmg2img (argument)
+=sys-fs/dmg2img-1.6.7 ~arm64
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/ocaml-gettext-0.3.7-r3 **
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/camomile-2.0.0 ~arm64
+# required by dev-ml/camomile-2.0.0::gentoo
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/dune-site-3.10.0 ~arm64
+# required by dev-perl/Sys-Virt-10.2.0::gentoo
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo[perl]
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-emulation/libvirt-10.3.0-r1 ~arm64
+# required by dev-ml/dune-site-3.10.0::gentoo
+# required by dev-ml/camomile-2.0.0::gentoo
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/dune-private-libs-3.10.0 ~arm64
+# required by dev-ml/dyn-3.10.0::gentoo
+# required by dev-ml/stdune-3.10.0::gentoo
+# required by dev-ml/dune-private-libs-3.10.0::gentoo
+# required by dev-ml/dune-site-3.10.0::gentoo
+# required by dev-ml/camomile-2.0.0::gentoo
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/ordering-3.10.0 ~arm64
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-admin/augeas-1.14.1 ~arm64
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-emulation/libguestfs-appliance-1.46.0 **
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/ocaml-fileutils-0.6.4-r1 **
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-forensics/yara-4.5.0 ~arm64
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[perl]
+# required by guestfs-tools (argument)
+=dev-perl/Sys-Virt-10.2.0 **
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-emulation/libguestfs-1.48.6-r1 **
+# required by dev-ml/dune-private-libs-3.10.0::gentoo
+# required by dev-ml/dune-site-3.10.0::gentoo
+# required by dev-ml/camomile-2.0.0::gentoo
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/stdune-3.10.0 ~arm64
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=dev-libs/libconfig-1.7.3 ~arm64
+# required by app-admin/augeas-1.14.1::gentoo
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-text/NaturalDocs-1.52-r2 ~arm64
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo[perl]
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=app-misc/hivex-1.3.23-r1 **
+# required by dev-ml/stdune-3.10.0::gentoo
+# required by dev-ml/dune-private-libs-3.10.0::gentoo
+# required by dev-ml/dune-site-3.10.0::gentoo
+# required by dev-ml/camomile-2.0.0::gentoo
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-ml/dyn-3.10.0 ~arm64
+# required by app-emulation/virt-manager-4.1.0-r1::gentoo[-test,python_single_target_python3_11]
+# required by virt-manager (argument)
+=dev-python/libvirt-python-10.3.0 ~arm64
+# required by dev-ml/camlp4-4.14_p1-r2::gentoo
+# required by dev-ml/ocaml-gettext-0.3.7-r3::gentoo
+# required by app-emulation/guestfs-tools-1.48.2::gentoo[ocaml]
+# required by guestfs-tools (argument)
+=dev-lang/ocaml-4.14.2 ~arm64
+# required by dev-ml/base-0.15.1-r2::gentoo
+# required by dev-ml/ppx_here-0.15.0::gentoo
+# required by dev-ml/ppx_let-0.15.0::gentoo
+# required by dev-ml/lwt-5.7.0::gentoo
+# required by dev-ml/ounit2-2.2.7::gentoo
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo[ocaml]
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=dev-lang/ocaml-4.13.1 ~arm64
+# required by dev-ml/base-0.15.1-r2::gentoo
+# required by dev-ml/ppx_here-0.15.0::gentoo
+# required by dev-ml/ppx_let-0.15.0::gentoo
+# required by dev-ml/lwt-5.7.0::gentoo
+# required by dev-ml/ounit2-2.2.7::gentoo
+# required by app-emulation/libguestfs-1.48.6-r1::gentoo[ocaml]
+# required by app-emulation/guestfs-tools-1.48.2::gentoo
+# required by guestfs-tools (argument)
+=dev-lang/ocaml-4.12.1 ~arm64
