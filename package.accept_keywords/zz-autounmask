@@ -1,54 +1,22 @@
-# package.accept_keywords# required by vscode (argument)
-=app-editors/vscode-1.89.0 ~arm64
-# required by github-cli (argument)
-=dev-util/github-cli-2.42.0 ~arm64
-# required by bat (argument)
-=sys-apps/bat-0.24.0-r1 ~arm64
+# required by net-vpn/tailscale (argument)
+=net-vpn/tailscale-1.66.1 ~arm64
 # required by media-fonts/iosevka (argument)
 =media-fonts/iosevka-30.0.0 ~arm64
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
-=media-libs/libtgvoip-2.4.4_p20221208-r1 ~arm64
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
-=dev-cpp/range-v3-0.12.0 ~arm64
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
-=media-libs/tg_owt-0_pre20230921 ~arm64
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
+# required by bat (argument)
+=sys-apps/bat-0.24.0-r1 ~arm64
+# required by github-cli (argument)
+=dev-util/github-cli-2.42.0 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
 =dev-libs/libdispatch-5.8 ~arm64
-# required by dev-cpp/cppgir-2.0_p20240315::gentoo
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
-=dev-cpp/expected-lite-0.6.3 ~arm64
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=media-libs/libtgvoip-2.4.4_p20221208-r1 ~arm64
+# required by telegram-desktop (argument)
+=net-im/telegram-desktop-5.0.1 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+=media-libs/tg_owt-0_pre20230921 ~arm64
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
 =media-libs/rnnoise-0.4.1_p20210122-r1 ~arm64
-# required by net-im/telegram-desktop (argument)
-=net-im/telegram-desktop-5.0.0 ~arm64
-# required by net-im/telegram-desktop-5.0.0::gentoo
-# required by net-im/telegram-desktop (argument)
-=dev-cpp/cppgir-2.0_p20240315 ~arm64
-# required by kubectl (argument)
-=sys-cluster/kubectl-1.29.3 ~arm64
-# required by gui-wm/hyprland-0.39.1-r3::gentoo
-# required by hyprland (argument)
-=gui-libs/hyprcursor-0.1.8 **
-# required by gui-wm/hyprland-0.39.1-r3::gentoo
-# required by hyprland (argument)
-=dev-cpp/tomlplusplus-3.4.0 ~arm64
-# required by gui-libs/hyprcursor-0.1.8::gentoo
-# required by gui-wm/hyprland-0.39.1-r3::gentoo
-# required by hyprland (argument)
-=dev-libs/hyprlang-0.5.1 **
-# required by gui-wm/hyprland-0.39.1-r3::gentoo
-# required by hyprland (argument)
-=dev-libs/libliftoff-0.4.1 ~arm64
-# required by gui-apps/waybar-0.10.0::gentoo
-# required by waybar (argument)
-=dev-libs/date-3.0.0 **
-# required by brightnessctl (argument)
-=app-misc/brightnessctl-0.5.1 ~arm64
-# required by hyprpaper (argument)
-=gui-apps/hyprpaper-0.7.0 **

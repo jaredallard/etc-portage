@@ -5,3 +5,6 @@ savedconfig/
 # Right now we need different settings for the binhost vs a client
 # so we exclude this.
 make.conf
+
+# CPU flags differ between platforms
+package.us/00cpu-flags

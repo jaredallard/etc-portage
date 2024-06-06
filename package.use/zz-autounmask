@@ -1,0 +1,16 @@
+# required by sys-kernel/asahi-kernel-6.8.8_p2::asahi
+# required by virtual/dist-kernel-6.8.8_p2::asahi
+>=sys-kernel/installkernel-28 dracut
+>=dev-lang/rust-bin-1.77.1 rustfmt rust-src
+# required by dev-lang/go-1.22.2::gentoo
+# required by net-vpn/tailscale-1.66.1::jaredallard-overlay
+# required by net-vpn/tailscale (argument)
+>=sys-devel/binutils-2.41-r5 gold
+# required by net-im/telegram-desktop-5.0.1::gentoo
+# required by telegram-desktop (argument)
+>=media-video/ffmpeg-6.1.1-r5 vpx opus
+# required by media-libs/asahi-audio-1.8::asahi
+# required by sys-apps/asahi-meta-2-r7::asahi[audio]
+# required by @selected
+# required by @world (argument)
+>=media-video/pipewire-1.0.5 lv2 extra
