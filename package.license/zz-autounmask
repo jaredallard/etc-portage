@@ -1,0 +1,4 @@
+# required by vscode (argument)
+>=app-editors/vscode-1.90.0 Microsoft-vscode
+# required by app-misc/notion (argument)
+>=app-misc/notion-3.9.1 all-rights-reserved

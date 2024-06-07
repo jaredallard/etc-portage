@@ -1,3 +1,4 @@
 gui-wm/hyprland amd64
 gui-apps/waybar amd64
 gui-apps/wofi amd64
+gui-apps/hyprpaper ~amd64
