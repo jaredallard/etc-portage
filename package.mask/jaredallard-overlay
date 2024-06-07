@@ -1,0 +1,2 @@
+# We use our version of chromium so that we get widevine support.
+www-client/chromium::gentoo
