@@ -1,0 +1,2 @@
+# Required for widevine-installer
+sys-fs/squashfs-tools zstd
