@@ -1,1 +1,2 @@
-www-client/chromium qt5
+# needs qt5 to use qt6 (for some reason?)
+www-client/chromium qt5 widevine
