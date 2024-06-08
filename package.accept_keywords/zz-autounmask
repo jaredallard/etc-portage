@@ -54,3 +54,8 @@
 # required by app-misc/notion-3.9.1::jaredallard-overlay
 # required by app-misc/notion (argument)
 =app-arch/7zip-24.06 **
+# required by gui-apps/swaync-0.10.1-r1::guru
+# required by gui-apps/swaync (argument)
+=dev-libs/granite-6.2.0 **
+# required by gui-apps/swaync (argument)
+=gui-apps/swaync-0.10.1-r1 **
