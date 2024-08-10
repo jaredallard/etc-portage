@@ -1,2 +1,4 @@
 # needs qt5 to use qt6 (for some reason?)
-www-client/chromium qt5 widevine
+www-client/chromium official lto qt5 widevine
+# Required for building chromium
+net-libs/nodejs inspector

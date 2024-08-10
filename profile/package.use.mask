@@ -1,2 +1,2 @@
 # Our versions of chromium supports widevine on arm64
-www-client/chromium -widevine
+www-client/chromium -widevine -lto

@@ -1,4 +1,9 @@
-gui-wm/hyprland amd64
-gui-apps/waybar amd64
-gui-apps/wofi amd64
-gui-apps/hyprpaper ~amd64
+gui-wm/hyprland ~amd64 amd64
+gui-apps/waybar ~amd64 amd64
+gui-apps/wofi ~amd64 amd64
+gui-apps/hyprpaper ~amd64 amd64
+gui-libs/aquamarine ~amd64 amd64
+gui-libs/hyprcursor ~amd64 amd64
+dev-libs/hyprland-protocols ~amd64 amd64
+gui-libs/hyprutils ~amd64 amd64
+dev-util/hyprwayland-scanner ~amd64 amd64

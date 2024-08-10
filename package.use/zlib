@@ -1,1 +1,10 @@
 sys-libs/zlib minizip
+# required by kde-plasma/kscreenlocker-5.27.11::gentoo
+# required by @preserved-rebuild (argument)
+>=kde-frameworks/kconfig-5.116.0 qml
+# required by sys-kernel/asahi-kernel-6.8.9_p7::asahi[initramfs]
+# required by media-libs/asahi-audio-1.8::asahi
+# required by sys-apps/asahi-meta-2-r7::asahi[audio]
+# required by @selected
+# required by @world (argument)
+>=sys-kernel/installkernel-38 dracut

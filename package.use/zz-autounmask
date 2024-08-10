@@ -21,3 +21,32 @@
 # required by gui-apps/swaync-0.10.1-r1::guru
 # required by gui-apps/swaync (argument)
 >=gui-libs/gtk-layer-shell-0.8.2 vala introspection
+# required by kde-frameworks/kauth-5.116.0::gentoo[policykit]
+# required by kde-frameworks/kcmutils-5.116.0::gentoo
+# required by kde-apps/dolphin-23.08.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-auth/polkit-qt-0.200.0 qt5
+# required by media-libs/phonon-vlc-0.12.0-r1::gentoo
+>=media-libs/phonon-4.12.0-r2 qt5
+# required by media-libs/phonon-4.12.0-r2::gentoo[vlc]
+# required by kde-apps/dolphin-23.08.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/phonon-vlc-0.12.0-r1 qt5
+# required by kde-frameworks/kwallet-5.116.0::gentoo
+# required by kde-frameworks/kio-5.116.0::gentoo[kwallet]
+# required by kde-apps/kio-extras-24.02.2-r1::gentoo
+# required by kde-apps/dolphin-23.08.5::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-crypt/qca-2.3.9 qt5
+# required by www-client/chromium-127.0.6533.72::jaredallard-overlay
+# required by @selected
+# required by @world (argument)
+>=virtual/rust-1.79.0 profiler
+# required by virtual/rust-1.79.0::gentoo
+# required by www-client/chromium-127.0.6533.72::jaredallard-overlay
+# required by @selected
+# required by @world (argument)
+>=dev-lang/rust-bin-1.79.0 profiler
